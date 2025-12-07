@@ -1,7 +1,7 @@
 ## Uber Trip Data Analysis Project using Python
 
 ### Project Overview
-This project performs an in-depth Exploratory Data Analysis on Uber trip data to understand ride patterns, peak hours, travel purposes, distances traveled, weekday trends, and monthly usage behavior. The analysis includes preprocessing, feature engineering, visualizations, and correlation analysis to uncover insights into user behavior and trip characteristics. [PythonCode](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/main.py)
+This project performs an in-depth Exploratory Data Analysis on Uber trip data to understand ride patterns, peak hours, travel purposes, distances traveled, weekday trends, and monthly usage behavior. The analysis includes preprocessing, feature engineering, visualizations, and correlation analysis to uncover insights into user behavior and trip characteristics. [SourceCode](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/main.py)
 
 ### Data Sources
 The dataset used for this analysis is the ["UberDataset.csv"](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/UberDataset.csv) file, containing Uber ride details such as start and end date with timestamps, trip categories, purpose of travel, distance traveled, and start and end stop name. It contains upto 1155 entries with 7 columns.
@@ -43,14 +43,16 @@ Some interesting features worked during this project are:
 
 ### Results
 The Analysis results are summarized as follows:
-1. Business trips dominate over personal rides.
-2. Most common purposes: Meeting, Meal, Errand-running.
-3. Ride activity peaks during Evening.
-4. Wednesday and Friday show highest weekday ride counts.
-5. November has the highest number of rides, while September has the lowest.
-6. A notable distance spike occurs in April and October, showing exceptionally long rides.
-7. Distances mostly fall under 40 miles, with a few high outliers.
-8. No strong correlation between ride count and maximum miles—long trips are rare exceptions.
+1. Business trips dominate over personal rides. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/countplot_for_CATEGORY_and_PURPOSE_col.png)
+2. Most common purposes: Meeting and Meal/Entertain. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Comparison_of_different_categories_wrt_purpose.png)
+3. Ride activity peaks during Afternoon and Evening. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/countplot_for_TIME_col.png)
+4. Wednesday and Friday show highest weekday ride counts. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Count_of_rides_per_weekday.png)
+5. November has the highest number of rides, while September has the lowest. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Max_dist_vs_ridecount_per_month.png)
+6. Also a notable distance spike occurs in April and October, showing exceptionally long rides. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Max_dist_vs_ridecount_per_month.png)
+7. No strong correlation between ride count and maximum miles—long trips are rare exceptions. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Max_dist_vs_ridecount_per_month.png)
+8. Distances mostly fall under 40 miles, with a few high outliers. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Distribution_of_MILES_values_lessthan40.png) 
+9. Very weak correlations exist among miles, time, category, and purpose.[See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Correlation_Matrix_of_CATEGORY_and_PURPOSE.png)
+10. Miles data is right-skewed, with most trips being short and a few long-distance outliers. [See visualization](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/Boxplot_of_MILES_col.png)
 
 ### Recommendations
 Based on the analysis made, the following actions are recommended:

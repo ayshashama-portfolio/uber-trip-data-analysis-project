@@ -1,13 +1,13 @@
 ## Uber Trip Data Analysis Project using Python
 
 ### Project Overview
-This project performs an in-depth Exploratory Data Analysis on Uber trip data to understand ride patterns, peak hours, travel purposes, distances traveled, weekday trends, and monthly usage behavior. The analysis includes preprocessing, feature engineering, visualizations, and correlation analysis to uncover insights into user behavior and trip characteristics.
+This project performs an in-depth Exploratory Data Analysis on Uber trip data to understand ride patterns, peak hours, travel purposes, distances traveled, weekday trends, and monthly usage behavior. The analysis includes preprocessing, feature engineering, visualizations, and correlation analysis to uncover insights into user behavior and trip characteristics. [PythonCode](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/main.py)
 
 ### Data Sources
-The dataset used for this analysis is the "UberDataset.csv" file, containing Uber ride details such as start and end date with timestamps, trip categories, purpose of travel, distance traveled, and start and end stop name. It contains upto 1155 entries with 7 columns.
+The dataset used for this analysis is the ["UberDataset.csv"](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/UberDataset.csv) file, containing Uber ride details such as start and end date with timestamps, trip categories, purpose of travel, distance traveled, and start and end stop name. It contains upto 1155 entries with 7 columns.
 
 ### Tools Used
-* Python - Main programming language
+* Python - Main programming language 
 * Excel - Initial data viewing & basic checks
 * Pandas - Data cleaning & manipulation
 * NumPy - Numerical operations

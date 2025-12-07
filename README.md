@@ -24,3 +24,39 @@ Before creating visualization for data insights, we performed the following pre-
 6. Extracted numerical columns and generated a correlation heatmap
 
 ### Exploratory Data Analysis
+Key questions explored:
+* How many rides occur per category and purpose?
+* Which time-of-day category has the highest ride count?
+* What is the relationship between trip purpose and category?
+* What are the longest trips recorded each month?
+* Which weekday has the most Uber rides?
+* How is the distance distributed? Are there outliers?
+* How do monthly ride counts vary through the year?
+
+### Data Analysis
+Some interesting features worked during this project are:
+* day-night segmentation based on ride start and end time
+* Monthly ride pattern detection using START_DATE
+* Maximum miles per month to detect long-trip surges
+* One-Hot Encoding to analyze categorical influence numerically
+* Correlation matrix to study relationship between miles, time, and encoded purpose/category.
+
+### Results
+The Analysis results are summarized as follows:
+1. Business trips dominate over personal rides.
+2. Most common purposes: Meeting, Meal, Errand-running.
+3. Ride activity peaks during Evening.
+4. Wednesday and Friday show highest weekday ride counts.
+5. November has the highest number of rides, while September has the lowest.
+6. A notable distance spike occurs in April and October, showing exceptionally long rides.
+7. Distances mostly fall under 40 miles, with a few high outliers.
+8. No strong correlation between ride count and maximum miles—long trips are rare exceptions.
+
+### Recommendations
+Based on the analysis made, the following actions are recommended:
+1. Uber service teams can focus more resources on evening rides (high demand).
+2. September dip suggests a seasonal low-ideal for driver onboarding or maintenance schedules.
+3. Long-distance trips in April & October could indicate events or travel patterns worth investigating.
+4. Business customers drive most demand → introduce business loyalty programs.
+5. Use purpose data to offer targeted discounts (e.g., frequent “Meal” riders).
+   

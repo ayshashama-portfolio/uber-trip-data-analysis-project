@@ -7,7 +7,9 @@ This project performs an in-depth Exploratory Data Analysis on Uber trip data to
 The dataset used for this analysis is the ["UberDataset.csv"](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project/blob/main/UberDataset.csv) file, containing Uber ride details such as start and end date with timestamps, trip categories, purpose of travel, distance traveled, and start and end stop name. It contains upto 1155 entries with 7 columns.
 
 ### Tools Used
-* Python - Main programming language 
+* Python - Main programming language
+* Visual Studio Code (VS Code) – Code development environment on Windows
+* Windows PowerShell – For running scripts and environment management
 * Excel - Initial data viewing & basic checks
 * Pandas - Data cleaning & manipulation
 * NumPy - Numerical operations

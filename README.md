@@ -2,8 +2,6 @@
 
 An end-to-end Python exploratory analysis of one year of Uber trip logs (Jan–Dec 2016, 1,154 trips, 12,195 miles) that shows when rides are needed, what they are used for, and which trips cover the most distance.
 
-🌐 **Part of my data analytics portfolio:** [ayshashamamusamil.netlify.app](https://ayshashamamusamil.netlify.app/)
-
 ## Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

@@ -2,6 +2,8 @@
 
 An end-to-end Python exploratory analysis of one year of Uber trip logs (Jan–Dec 2016, 1,154 trips, 12,195 miles) that shows when rides are needed, what they are used for, and which trips cover the most distance.
 
+🌐 **Part of my data analytics portfolio:** [ayshashamamusamil.netlify.app](https://ayshashamamusamil.netlify.app/)
+
 ## Tech Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -130,4 +132,11 @@ The charts are written to `screenshots/` and the summary numbers are printed to 
 
 ## Author
 
-**Aysha Shama** · [GitHub](https://github.com/ayshashama-portfolio) · ayshashamamuzamil@gmail.com
+**Aysha Shama** · Data Analyst
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayshashamamusamil.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysha-shama-b5029a229/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayshashama003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshashama-portfolio)
+
+📧 ayshashama003@gmail.com · 🌐 More projects on my [portfolio website](https://ayshashamamusamil.netlify.app/)

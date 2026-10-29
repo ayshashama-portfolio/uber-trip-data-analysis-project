@@ -64,10 +64,9 @@ A reproducible Python pipeline ([`src/uber_analysis.py`](src/uber_analysis.py)) 
 </p>
 
 ### Distance and correlation
-<p>
-<img src="screenshots/trip_distance_distribution.png" width="49%" />
-<img src="screenshots/correlation_matrix.png" width="49%" />
-</p>
+<img src="screenshots/trip_distance_distribution.png" width="60%" />
+
+<img src="screenshots/correlation_matrix.png" width="85%" />
 
 ## Key Insights Found
 

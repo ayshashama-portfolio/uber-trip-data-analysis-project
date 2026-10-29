@@ -139,4 +139,3 @@ The charts are written to `screenshots/` and the summary numbers are printed to 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayshashama003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshashama-portfolio)
 
-📧 ayshashama003@gmail.com · 🌐 More projects on my [portfolio website](https://ayshashamamusamil.netlify.app/)
